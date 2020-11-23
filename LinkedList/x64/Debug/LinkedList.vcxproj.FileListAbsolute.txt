@@ -1,0 +1,2 @@
+E:\C++\LinkedList\x64\Debug\LinkedList.exe
+E:\C++\LinkedList\x64\Debug\LinkedList.pdb
